@@ -1,1 +1,1 @@
-1-- ii) a complexidade em pior caso é O(n²).
+1-- ii- a complexidade em pior caso é O(n²).
